@@ -2606,8 +2606,7 @@ input, select, textarea {
 				width: 100%;
 			}
 			.image.fitb img {
-				align-content:end;
-				align-self: flex-end;
+				
 				width: 100%;
 			}
 
@@ -3723,7 +3722,7 @@ input, select, textarea {
 				}
 
 				.spotlight .content {
-					background-color: #1c1d26;
+					background-color: #ffffff;
 					border-width: 0 !important;
 					border-top-width: 0.35em !important;
 					bottom: auto !important;
